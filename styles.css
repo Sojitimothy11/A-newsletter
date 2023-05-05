@@ -1,0 +1,43 @@
+body{
+    box-sizing: border-box;
+    padding: 5% 10%;
+    margin: 0%;
+    /* padding-left:  10rem; */
+    box-sizing: content-box;
+    background-color: rgb(10, 238, 105);
+    justify-content: center;
+}
+
+em{
+    font-size: medium;
+}
+.frame{
+    border: 2px solid black;
+    box-shadow: 10px 10px lightyellow;
+    background-color: transparent;
+}
+
+.img{
+    justify-items: center;
+}
+
+h1{text-align: center;
+font-size: xx-large;
+}
+
+h2{
+    text-align: center ;
+    font-size: xx-large;
+    font-family:Calibri ;
+    color: antiquewhite;
+}
+
+h6{
+    text-align: center;
+}
+
+p{text-align:justify;
+padding-left: 2rem;}
+
+
+
